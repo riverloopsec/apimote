@@ -7,6 +7,8 @@ The ApiMote v4beta version is beta hardware intended for researchers,
 students, utility companies, etc. to use for learning about and 
 evaluating the security of IEEE 802.15.4/ZigBee systems as authorized.
 
+![ScreenShot](https://github.com/riverloopsec/apimote/raw/master/hardware/apimotev4beta/pcb-front.jpg)
+
 ----
 
 The design files are created in KiCad, and we reccomend opening them in
